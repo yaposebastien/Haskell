@@ -3,7 +3,7 @@
    
     ## How to run the test:
 
-    (1) $ ghci ProgTest1: main
+    (1) $ ghci ProgTest1; main
     (2) *Main> main
 
 -}
